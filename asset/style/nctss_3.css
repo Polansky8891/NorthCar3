@@ -1,0 +1,49 @@
+.main-title {
+    font-size:20px;
+    position: relative;
+    left: 143px;
+}
+.subtitle {
+    font-size:18px;
+    position:relative;
+    left: 75px;
+    font-weight: normal;
+}
+.main-block{
+    position:relative;
+    margin-left:3rem;
+}
+.list_1 {
+    position:relative;
+    right:26px;
+    font-weight:bolder;
+}
+.list_seats {
+    position: relative;
+    right: 26px;
+}
+.type {
+    font-weight: bolder;
+}
+table {
+    border-collapse: collapse;
+}
+th,td{
+    border: 1px solid #cecfd5;
+    padding: 10px 15px;
+}
+.table-information_1{
+    position:relative;
+}
+.row-info{
+    position:relative;
+    padding-left:0rem;
+}
+td {
+    text-align: left;
+}
+.row-info_2{
+    text-align:center;
+}
+
+
